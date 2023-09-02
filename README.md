@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RaphaelMasset
-- 👀 I’m interested in problem solving, as simple as that
-- 🌱 I’m currently learning Web developpement and python
-- 💞️ I’m looking to collaborate on Open source project beginenr friendly
-- 📫 How to reach me On facebook (Raphael Masset) or github
+- 👀 I enjoy writing algorithm, as simple as that
+- 🌱 I’m currently learning Full Stack development
+- 💞️ I’m looking to collaborate on Open source project
+- 📫 You can reach me on every social media (Raphael Masset) or github
 
 <!---
 RaphaelMasset/RaphaelMasset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
